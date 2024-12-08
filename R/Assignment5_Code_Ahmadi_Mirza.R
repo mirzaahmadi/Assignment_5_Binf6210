@@ -124,7 +124,7 @@ for (file in list.files("./data", full.names=TRUE)) {
 
 # 2. DATA EXPLORATION, FILTERING, AND QUALITY CONTROL ----
 
-#FILTER and EXPLORE sequence data, geographic data, and sequence data from BOLD and NCBI
+# FILTER and EXPLORE sequence data, geographic data, and sequence data from BOLD and NCBI
 
 
 # Create a data frame containing only species names and  corresponding countries, as these columns are relevant for downstream analysis
